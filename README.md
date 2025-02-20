@@ -69,8 +69,8 @@
 
 ## My Journey
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=BhavikDodda&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BhavikDodda&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=BhavikDodda&show=reviews,discussions_started,discussions_,prs_merged,prs_merged_percentage&theme=tokyonight&show_icons=true&rank_icon=github">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BhavikDodda&layout=compact&theme=tokyonight&langs_count=10" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=BhavikDodda&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=BhavikDodda&theme=onedark" />
 </div>
