@@ -68,11 +68,11 @@
 - **Other Tools**: Desmos, Llama, RStudio
 
 ## My Journey
-<div>
-  <img width="440px" src="https://bhavik-readme-stats.vercel.app/api?username=BhavikDodda&show=reviews,discussions_started,discussions_,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=bhaviklogo&theme=tokyonight">
-  <img width="385px" src="https://bhavik-readme-stats.vercel.app/api/top-langs/?username=BhavikDodda&layout=compact&theme=tokyonight&langs_count=10" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=BhavikDodda&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=BhavikDodda&theme=onedark" />
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img width="412.5px" src="https://bhavik-readme-stats.vercel.app/api?username=BhavikDodda&show=reviews,discussions_started,discussions_,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=bhaviklogo&theme=tokyonight">
+  <img width="412.5px" src="https://bhavik-readme-stats.vercel.app/api/top-langs/?username=BhavikDodda&layout=compact&theme=tokyonight&langs_count=10" />
+  <img width="440px" src="https://bhavik-readme-activity-graph.vercel.app/graph?username=BhavikDodda&theme=github">
+  <img width="385px" src="https://bhavik-readme-streak-stats.vercel.app/?user=BhavikDodda&theme=onedark" />
 </div>
 
 ## My Rewards
