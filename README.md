@@ -87,7 +87,7 @@
 
   
 &nbsp;<div align="center">
-  [![Spotify](https://bhavik-spotify-now-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/q2wm5g598r74dm0xql6umcr44)
+  [![Spotify](https://bhavik-spotify-now-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://bhavik-spotify-now-playing.vercel.app/)
 </div>
   
 </details>
