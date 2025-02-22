@@ -77,6 +77,10 @@
 
 ## My Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=BhavikDodda&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### Badges
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
         
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/BhavikDodda/BhavikDodda/output/github-contribution-grid-snake-dark.svg)
