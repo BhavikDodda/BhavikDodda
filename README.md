@@ -80,6 +80,7 @@
 ### Badges
 
 <!--START_SECTION:badges-->
+[![Deep Learning Specialization](https://images.credly.com/size/100x100/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png)](http://www.credly.com/badges/81413d7d-149d-424a-90a5-ee899d32ea7a "Deep Learning Specialization")
 <!--END_SECTION:badges-->
         
 ## Feeding...
