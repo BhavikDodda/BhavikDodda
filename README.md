@@ -18,42 +18,42 @@
 
   <!-- Programming Languages -->
   <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></code>
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" /></code>
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /></code>
-    <code><img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo" /></code>
-    <code><img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo" /></code>
-    <code><img src="https://pbs.twimg.com/profile_images/1401832717/ahk_400x400.png" height="30" alt="ahk logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" alt="javascript logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" alt="typescript logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" alt="python logo" /></code>
+    <code><img src="https://skillicons.dev/icons?i=r" width="30px" alt="r logo" /></code>
+    <code><img src="https://skillicons.dev/icons?i=lua" width="px" alt="lua logo" /></code>
+    <code><img src="https://pbs.twimg.com/profile_images/1401832717/ahk_400x400.png" width="30px" alt="ahk logo" /></code>
   </div>
 
   <!-- Web Development -->
   <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /></code>
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /></code>
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" /></code>
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="html5 logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="css3 logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="react logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="nodejs logo" /></code>
   </div>
 
   <!-- Data Science & Machine Learning -->
   <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" /></code>
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" alt="keras logo" /></code>
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" /></code>
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" /></code>
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib logo" /></code>
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="scikit-learn logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" alt="tensorflow logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="30" alt="keras logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" alt="numpy logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" alt="pandas logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="30" alt="matplotlib logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="30" alt="scikit-learn logo" /></code>
   </div>
 
   <!-- DevOps & Tools -->
   <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" /></code>
-    <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="git logo" /></code>
+    <code><img src="https://skillicons.dev/icons?i=github" width="30" alt="github logo" /></code>
   </div>
 
   <!-- Other Tools -->
   <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" /></code>
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="vscode logo" /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" alt="jupyter logo" /></code>
   </div>
 
 </div>
