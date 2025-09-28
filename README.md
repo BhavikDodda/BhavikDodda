@@ -2,6 +2,8 @@
 <h1 align="center">Hi, I'm Bhavik Dodda 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BhavikDodda.BhavikDodda&left_color=royalblue&right_color=black"  />
 
+- PGP fingerprint: [`FAA7 8923 C461 0936 5BA4  7281 3846 05EF 3D2B D723`](https://github.com/bhavikdodda.gpg)
+
 ## About me:
 
 - 🔭 I’m currently working on an Anamoly detector, and projects in DL and Game Theory
