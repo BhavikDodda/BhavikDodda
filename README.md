@@ -82,7 +82,7 @@
 ### Badges
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/81413d7d-149d-424a-90a5-ee899d32ea7a" title="Deep Learning Specialization"><img src="https://images.credly.com/size/80x80/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png" alt="Deep Learning Specialization" width="80" height="80"></a>
+[![Deep Learning Specialization](https://images.credly.com/size/80x80/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png)](https://www.credly.com/badges/81413d7d-149d-424a-90a5-ee899d32ea7a)
 <!--END_SECTION:badges-->
         
 ## Feeding...
